@@ -1,0 +1,17 @@
+filename = '[禁用模组检测][客户端]be_quiet_negotiator-1.0.4.jar'
+name = 'Be Quiet Negotiator'
+side = 'client'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.0.4'
+
+[download]
+hash = '376ef0d83753398b286bd841791a2270d75e81022574dbe3849bcd56c86937835400e600a2b39c5553193edeb6973a85f06320fea8557e0da3e7232995cf24f9'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/38x4KgoC/versions/OkXxbMBg/be_quiet_negotiator-1.0.4.jar'
+
+[update.modrinth]
+mod-id = '38x4KgoC'
+version = 'OkXxbMBg'

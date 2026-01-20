@@ -1,0 +1,17 @@
+filename = '[机械动力][机械动力：豆腐动力]tofucreate-1.21.1-2.1.0.jar'
+name = 'Tofu Create'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-2.1.0'
+
+[download]
+hash = '178d1ba017762715ab9f01c4a19cc16e7b250ab801338e5738d48fc3ac607f77b557fc02ae27ae0bfddeab5cf9af36222897171cc34b00cad39fa81f63c2b883'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/SNoLi0im/versions/gak7ih86/tofucreate-1.21.1-2.1.0.jar'
+
+[update.modrinth]
+mod-id = 'SNoLi0im'
+version = 'gak7ih86'

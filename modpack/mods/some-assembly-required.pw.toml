@@ -1,0 +1,17 @@
+filename = '[农夫乐事][自定义三明治]someassemblyrequired-5.2.7.jar'
+name = 'Create: Some Assembly Required'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '5.2.7'
+
+[download]
+hash = '0862cb781eb498cde5fc8a65fd01ce6d7f32adc5f3710b765c7c5e25662aba1ce069f9a1362d5b050daa3a2f6f866829cb4db4781bffade7c327d365e4e8df66'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/jZi8ogTA/versions/lbuyTO5x/someassemblyrequired-5.2.7.jar'
+
+[update.modrinth]
+mod-id = 'jZi8ogTA'
+version = 'lbuyTO5x'

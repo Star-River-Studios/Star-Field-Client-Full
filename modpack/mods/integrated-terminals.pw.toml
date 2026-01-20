@@ -1,0 +1,17 @@
+filename = '[动态联合][集成终端]integratedterminals-1.21.1-neoforge-1.6.24.jar'
+name = 'Integrated Terminals'
+side = ''
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-1.6.24'
+
+[download]
+hash = 'a4bbd74d368116f2e9fcd92f7483966570a9dd849409c0a06f65d6d95bce8aaa220147c8703211dab650afb8f92db281f9a9859534b71429c623b4c047728a72'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/HmLJoQ1K/versions/iTf4azy4/integratedterminals-1.21.1-neoforge-1.6.24.jar'
+
+[update.modrinth]
+mod-id = 'HmLJoQ1K'
+version = 'iTf4azy4'

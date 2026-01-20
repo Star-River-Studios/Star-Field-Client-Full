@@ -1,0 +1,17 @@
+filename = '[机械动力][机械动力：实体控制]CreateEntityControl-0.2.8.2-6.0.x-neoforge-1.21.1.jar'
+name = 'Create: Entity Control'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-0.2.8.2-6.0.x'
+
+[download]
+hash = '9c584b3e1fa97ab366cced30f11505588303ecdd73f1379c3fe46d45d58170f92992126a8a03b398ee39d7709175d445debd9c298caa9365eee38e4c229de76a'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/43gwKokf/versions/3Gz32k32/CreateEntityControl-0.2.8.2-6.0.x-neoforge-1.21.1.jar'
+
+[update.modrinth]
+mod-id = '43gwKokf'
+version = '3Gz32k32'
