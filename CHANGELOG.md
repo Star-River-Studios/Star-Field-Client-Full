@@ -163,3 +163,36 @@
 ## 加入社区
 - QQ 群：[点击加入](https://qm.qq.com/q/RgessVyPC0)
 - Discord：[Join Server](https://discord.gg/ekpaH4FXDF)
+
+---
+
+# 星空神域 - 客户端更新（版本号：v1.0.0.0 Beta 2）
+
+> 发布日期：2026-01-23
+> ⚠️ 此为 **Beta** 测试版，可能存在兼容性问题，欢迎反馈！（仅 Beta 版本添加）
+
+## 更新介绍
+在本次更新中，我们添加了`Storage Drawers（储物抽屉）`、`Fluid Drawers Legacy（储液抽屉）`、`Create: Food（机械动力：食物扩展）`这三个mod。
+
+## 分发标准
+- 采用 **Modrinth** 整合包格式（`.mrpack`）进行分发
+- 所有资源由 **Packwiz** 统一管理
+- 此为 **「繁星计划」** 下属客户端统一规范
+
+## 变更说明
+
+### 模组变更
+- **新增**
+  - Create: Food（机械动力：食物扩展）
+  - Fluid Drawers Legacy（储液抽屉）
+  - Storage Drawers（储物抽屉）
+
+## 使用指南
+详细系统要求、启动器配置与安装步骤，请参阅项目 README：
+- 简体中文版: [README.md](./README.md)
+- 繁體中文版: [README_TW.md](./README_TW.md)
+- English version: [README_EN.md](./README_EN.md)
+
+## 加入社区
+- QQ 群：[点击加入](https://qm.qq.com/q/RgessVyPC0)
+- Discord：[Join Server](https://discord.gg/ekpaH4FXDF)

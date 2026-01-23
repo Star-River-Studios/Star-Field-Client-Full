@@ -6,7 +6,7 @@ hash = "bdf090af13032025e41fb8a0cc8ed436d18592de0ad2dfb0cf6f856f2a015f46"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "dee04700931a658595692988df52986bdcaa4d678a8a5fd4c9915d323c6a648a"
+hash = "0d76a58d3455602fac2698c8953325cb49041cbdc9dcbe6c8e12bcac5b5e669f"
 
 [[files]]
 file = "config/emi.css"
@@ -302,6 +302,11 @@ hash = "2899c6999bf17a7c53988538f1f487486824fa564793290aeb76a3172906f917"
 metafile = true
 
 [[files]]
+file = "mods/create-food.pw.toml"
+hash = "0bcedeb1a6a7febc35a4871e80f5764e4e9cc2e2bbaea34813a8d67d828e2609"
+metafile = true
+
+[[files]]
 file = "mods/create-integrated-farming.pw.toml"
 hash = "562e3732510ea3673dabc771e7545245264f91f415e9df1a1b9a7722b18a10cd"
 metafile = true
@@ -439,6 +444,11 @@ metafile = true
 [[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "3cfd2fb072b8873fefb713c686e1f514256a2bc2b219222b2bcb331edde1d667"
+metafile = true
+
+[[files]]
+file = "mods/fluid-drawers-legacy.pw.toml"
+hash = "b50ea4f97d7619322d186546675faccd4cc0db34383afd605f465dafbd07cd94"
 metafile = true
 
 [[files]]
@@ -869,6 +879,11 @@ metafile = true
 [[files]]
 file = "mods/spark.pw.toml"
 hash = "279ae38109fcbf973957b958122db367a32c81e900fb6e20dcd920cf720ca2cc"
+metafile = true
+
+[[files]]
+file = "mods/storagedrawers.pw.toml"
+hash = "d05a4352695fdacf758c0ea568f5e085b35f6521aa7f600fd8b10874a7a439db"
 metafile = true
 
 [[files]]

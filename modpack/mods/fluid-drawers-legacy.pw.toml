@@ -1,0 +1,17 @@
+filename = '[储物抽屉][储液抽屉]FluidDrawersLegacy-1.21-neoforge-6.2.1.jar'
+name = 'Fluid Drawers Legacy'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'FluidDrawersLegacy-1.21-neoforge-6.2.1.jar'
+
+[download]
+hash = 'd6a1aed3a27ee3ec5428ab7ed29ee76e77f56905'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7493113
+project-id = 597669
