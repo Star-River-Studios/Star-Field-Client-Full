@@ -1,8 +1,12 @@
 {
-	"versionName": "v1.0.0.0 Beta 2",
-	"versionCode": "26A2",
+	"versionName": "1.0.0.0 Beta 3",
+	"versionCode": "26A3",
 	"versionFormat": "%versionName% (%versionCode%)",
 	"changelogs": {
+		"1.0.0.0-beta.3": [
+			"完整更新日志",
+			"https://github.com/Star-River-Studios/Star-Field-Client-Full/releases/tag/v1.0.0.0-beta.3"
+		],
 		"1.0.0.0-beta.2": [
 			"完整更新日志",
 			"https://github.com/Star-River-Studios/Star-Field-Client-Full/releases/tag/v1.0.0.0-beta.2"

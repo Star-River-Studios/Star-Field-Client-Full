@@ -1,17 +1,17 @@
-filename = '[车万女仆]touhoulittlemaid-1.4.6-neoforge+mc1.21.1.jar'
+filename = '[车万女仆]touhoulittlemaid-1.5.0-neoforge+mc1.21.1-release.jar'
 name = 'Touhou Little Maid'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.4.6-neoforge+mc1.21.1'
+x-prismlauncher-version-number = '1.5.0-neoforge+mc1.21.1'
 
 [download]
-hash = '8ac0bc57ec419abfb0baf523a56ede0c76c8bd22e84d242cf7fef08a3d0b0896bddcf933afa6a58a2b5ee2777e4f2ed7f5caafc9ecfc44ed3cd945675f87523d'
+hash = '0ba31ab82f029827850abab5f6fcc2663df6bd4bf50d5e55707b5afa39f6a560313c8d58a77b9b8be8d63d9e413061201018e3440660e5668e2a6d01badf7474'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/R0bDWFAW/versions/X9LKPySd/touhoulittlemaid-1.4.6-neoforge%2Bmc1.21.1.jar'
+url = 'https://cdn.modrinth.com/data/R0bDWFAW/versions/GASkwyV4/touhoulittlemaid-1.5.0-neoforge%2Bmc1.21.1-release.jar'
 
 [update.modrinth]
 mod-id = 'R0bDWFAW'
-version = 'X9LKPySd'
+version = 'GASkwyV4'

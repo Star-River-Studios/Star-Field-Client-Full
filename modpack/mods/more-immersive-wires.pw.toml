@@ -1,0 +1,17 @@
+filename = '[沉浸工程][更多沉浸线缆]more-immersive-wires-1.21.1-1.1.9.jar'
+name = 'More Immersive Wires'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '1.21.1-1.1.9'
+
+[download]
+hash = 'EB16C5AFBEA2AFAFEBCB93718798884243DD02EB782F81C6595D1405DB24BF8BE947AE1982EFE9300501E302520C003B5AF16138F063A452DED2F9A19A18732C'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://github.com/MC-Nirvana/More-Immersive-Wires/releases/download/1.1.9/more-immersive-wires-1.21.1-1.1.9.jar'
+
+[update.modrinth]
+mod-id = 'ekzqyEZL'
+version = '8OjxdvGS'

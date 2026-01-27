@@ -1,17 +1,17 @@
-filename = '[沉浸式屠宰]butchery-4.6-neoforge-1.21.1.jar'
+filename = '[沉浸式屠宰]butchery-4.7-neoforge-1.21.1.jar'
 name = 'Butchery'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '4.6'
+x-prismlauncher-version-number = '4.7'
 
 [download]
-hash = '0204f565fbebc40f5826431d052ed63828d824a0c50e4dd60dc467a1873dbaee604ece0c60cc0e678655b9f40a7acaaf9e8c6a739b287556c78d7bb670e25b32'
+hash = 'ac3a64eb024508a5f6370716bb3ef6140c0721bde7e5466bb9c85e4bbf6d6d329c23f0f827b723ecb53555287e034493c9b57bbd9b0f1a459627641a95ec5845'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/6YfOmC9t/versions/JCqxo7hs/butchery-4.6-neoforge-1.21.1.jar'
+url = 'https://cdn.modrinth.com/data/6YfOmC9t/versions/FGBZIT30/butchery-4.7-neoforge-1.21.1.jar'
 
 [update.modrinth]
 mod-id = '6YfOmC9t'
-version = 'JCqxo7hs'
+version = 'FGBZIT30'

@@ -196,3 +196,58 @@
 ## 加入社区
 - QQ 群：[点击加入](https://qm.qq.com/q/RgessVyPC0)
 - Discord：[Join Server](https://discord.gg/ekpaH4FXDF)
+
+---
+
+# 星空神域 - 客户端更新（版本号：v1.0.0.0 Beta 3）
+
+> 发布日期：2026-01-27
+> ⚠️ 此为 **Beta** 测试版，可能存在兼容性问题，欢迎反馈！（仅 Beta 版本添加）
+
+## 更新介绍
+在本次更新中，我们添加了`沉浸工程`模组，并对现有模组列表进行了一次更新检查。
+
+## 分发标准
+- 采用 **Modrinth** 整合包格式（`.mrpack`）进行分发
+- 所有资源由 **Packwiz** 统一管理
+- 此为 **「繁星计划」** 下属客户端统一规范
+
+## 变更说明
+
+### 模组变更
+- **新增**
+  - Engineered Compatibility（兼容性扩展）
+  - Engineers Delight（工程师乐事）
+  - Immersive Petroleum（沉浸原油）
+  - Immersive Engineering（沉浸工程）
+  - Just Enough Immersive Multiblocks（JEI沉浸工程多方块结构信息）（客户端）
+  - More Immersive Wires（更多沉浸线缆）
+- **更新**
+  - AppleSkin（苹果皮）
+  - Butchery（沉浸式屠宰）
+  - Create: Bits 'n' Bobs（机械动力：精致附加）
+  - Create Crafts & Additions（机械动力：物品附加）
+  - FerriteCore（铁氧体磁芯）
+  - Integrated Dynamics（动态联合）
+  - MaidUseHandCrank（女仆摇曲柄）
+  - Resourcify（资源下载）（客户端）
+  - Sophisticated Storage in Motion（精妙物流）
+  - Sophisticated Storage（精妙存储）
+  - TaCZ 1.21.1 NeoForge Port（永恒枪械工坊：零-非官方版）
+  - Touhou Little Maid（车万女仆）
+  - **前置模组**
+    - Bagus Lib
+    - Create: Dragons Plus
+    - Framework
+    - MaFgLib（客户端）
+    - Sophisticated Core
+
+## 使用指南
+详细系统要求、启动器配置与安装步骤，请参阅项目 README：
+- 简体中文版: [README.md](./README.md)
+- 繁體中文版: [README_TW.md](./README_TW.md)
+- English version: [README_EN.md](./README_EN.md)
+
+## 加入社区
+- QQ 群：[点击加入](https://qm.qq.com/q/RgessVyPC0)
+- Discord：[Join Server](https://discord.gg/ekpaH4FXDF)

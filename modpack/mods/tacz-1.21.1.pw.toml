@@ -1,17 +1,17 @@
-filename = '[永恒枪械工坊：零-非官方版]tacz-neoforge-1.21.1-1.1.7-r2.jar'
+filename = '[永恒枪械工坊：零-非官方版]tacz-neoforge-1.21.1-1.1.7-hotfix-r2.jar'
 name = '[UNOFFICIAL] TaCZ 1.21.1 NeoForge Port'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.1.7-r2'
+x-prismlauncher-version-number = '1.1.7-hotfix-r2'
 
 [download]
-hash = '18a2233a83a9261cb1829de08dcf7d74937a9223e83a11fe468dd3ce2756e41421c478c54817e99d0bae15c5a23d48f7f609d8ffca47687ce65076d9db8c6ad4'
+hash = 'a7d528b6dbf5766e022729b77022bd240ea8d802a6ef2db0554072c5c97316945ac2ef94be51b2a7bdd44681c0d64185ec0c1883ce039bf6b5d90391773e631e'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/OypNE65K/versions/kDMLtvpa/tacz-neoforge-1.21.1-1.1.7-r2.jar'
+url = 'https://cdn.modrinth.com/data/OypNE65K/versions/styh0P9F/tacz-neoforge-1.21.1-1.1.7-hotfix-r2.jar'
 
 [update.modrinth]
 mod-id = 'OypNE65K'
-version = 'kDMLtvpa'
+version = 'styh0P9F'
