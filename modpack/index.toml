@@ -6,7 +6,7 @@ hash = "bdf090af13032025e41fb8a0cc8ed436d18592de0ad2dfb0cf6f856f2a015f46"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "2ccf5aff85f0aa3f6f897a1afd1e31e717539be4889e9b2f3cc267ab3c71c89f"
+hash = "9b46199f3b494e3daab8ef8d3ec45e969f5e7f7de000af7f65d744804a38b0d6"
 
 [[files]]
 file = "config/emi.css"
@@ -999,6 +999,11 @@ metafile = true
 [[files]]
 file = "options.txt"
 hash = "64473a2eef3782b1a686a912b08ef78922983e925b3c24d1efa0046b5d22b334"
+
+[[files]]
+file = "resourcepacks/multipixel.pw.toml"
+hash = "52033640251a9d1b66d4ea53989a23444620f7301e2751c9552ceae7a92b9097"
+metafile = true
 
 [[files]]
 file = "resourcepacks/squareful.pw.toml"
