@@ -1,6 +1,6 @@
 filename = '[动态联合][集成终端]integratedterminals-1.21.1-neoforge-1.6.24.jar'
 name = 'Integrated Terminals'
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'

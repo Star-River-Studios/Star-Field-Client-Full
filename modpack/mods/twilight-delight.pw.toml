@@ -1,6 +1,6 @@
 filename = '[农夫乐事][暮色风味乐事]twilightdelight-3.0.8.jar'
 name = "Twilight's Flavor & Delight"
-side = ''
+side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
