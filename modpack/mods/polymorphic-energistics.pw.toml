@@ -1,4 +1,4 @@
-filename = '[应用能源2][应用能源2：多态合成扩展]polyeng-0.4.1.jar'
+filename = '[多态合成][多态合成：应用能源2扩展]polyeng-0.4.1.jar'
 name = 'Polymorphic Energistics'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]

@@ -1,0 +1,17 @@
+filename = '[车万女仆][女仆魔源]maid_mana_source-1.21.1-1.2.1.jar'
+name = 'Maid Mana Source'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'maid_mana_source-1.21.1-1.2.1.jar'
+
+[download]
+hash = 'fe47480941f52d7cd44af6eaf51cc6696321517e'
+hash-format = 'sha1'
+mode = 'metadata:curseforge'
+url = ''
+
+[update.curseforge]
+file-id = 7344070
+project-id = 1297391

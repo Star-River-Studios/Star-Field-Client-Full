@@ -1,13 +1,13 @@
 name = "Star-Field-Client_Full"
 author = "ManyStars"
-version = "1.0.0.0-beta.3+26A5"
+version = "1.0.0.0-rc.1+26A15"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "8184a82c5c286146f2b77993d6e22121e1cd77dffd6140a64218869df9ab2a7d"
+hash = "fa0d26adc93219ac916a719e1131d3d5ec70f8e85d98a31b2bdb064c5199aadd"
 
 [versions]
 minecraft = "1.21.1"
-neoforge = "21.1.218"
+neoforge = "21.1.219"

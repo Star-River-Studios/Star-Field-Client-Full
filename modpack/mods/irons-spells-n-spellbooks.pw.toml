@@ -1,17 +1,17 @@
-filename = '[Iron的法术与魔法书]irons_spellbooks-1.21.1-3.15.0.jar'
+filename = '[Iron的法术与魔法书]irons_spellbooks-1.21.1-3.15.2.jar'
 name = "Iron's Spells 'n Spellbooks"
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.21.1-3.15.0'
+x-prismlauncher-version-number = '1.21.1-3.15.2'
 
 [download]
-hash = '9401862b12c0b487c5486d0f65a41963021bee36c6cba164af74caa80cae7b96daff59310117f1f32235508f0ea1353f7786aeb52ba9e8b6a6ae5420144b8cb1'
+hash = '73e9d978fd64da167c902ca4bcc2a7ac1ab004aeb0dd3092da75f59eb963574037534ec516de5776ad4de1e9447ab0656111afd1d84c12e190f06d011829a318'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/s4OWxYQQ/versions/7vZVzEH1/irons_spellbooks-1.21.1-3.15.0.jar'
+url = 'https://cdn.modrinth.com/data/s4OWxYQQ/versions/Cu7ovsnN/irons_spellbooks-1.21.1-3.15.2.jar'
 
 [update.modrinth]
 mod-id = 's4OWxYQQ'
-version = '7vZVzEH1'
+version = 'Cu7ovsnN'

@@ -23,7 +23,11 @@
   - 更新时间：每15天检查一次，若有更新时则进行更新。如果存在紧急更新，则进行紧急更新。
     - 语义级紧急更新：不包括仅影响构建产物、不改变运行行为的修复。
 
-- **`-PRERELEASE`**（可选）：预发布标识（如 `beta.1`）；无此后缀即为正式版。
+- **`-PRERELEASE`**：预发布标识
+  - 说明：当存在预发布版本时，添加该标识，并递增该标识的序号，无此后缀即为正式版。
+  - 更新时间：每次地图迭代后开启，不定时更新（根据测试情况进行更新）
+    - Beta：测试版，用于测试新的功能、修复bug，并提交Mod列表修改申请。
+    - RC：发布候选版，用于测试Modpack的稳定性和平衡性，在此阶段中Mod列表冻结，除非遇到致命BUG（例如服务端、客户端崩溃，游戏存档死档无法再次进入等致命性BUG）否则不对Mod列表进行改动。
 
 - **`+BUILDCODE`**：构建编号，表明该版本的构建信息。内容如下。
   - `YY`：构建年份，表明该构建是哪一年的构建
@@ -48,6 +52,16 @@
     - 构建年份：2026
     - 地图迭代次数：A（第一次）
     - 构建序号：1（项目首次构建）
+- `1.0.0.0-rc.1+26A10` 表示：
+  - 地图迭代号：1
+  - 主版本号：0
+  - 次版本号：0
+  - 修补版本号：0
+  - 预发布类型：RC 第 1 版
+  - 构建号：26A1
+    - 构建年份：2026
+    - 地图迭代次数：A（第一次）
+    - 构建序号：10
 - `3.2.5.8+26C325h` 表示：
   - 地图迭代号：3
   - 主版本号：2
@@ -65,7 +79,7 @@
 # 星空神域 - 客户端更新（版本号：vMAP.MAJOR.MINOR.PATCH(-PRERELEASE)）
 
 > 发布日期：YYYY-MM-DD
-> ⚠️ 此为 **Beta** 测试版，可能存在兼容性问题，欢迎反馈！（仅 Beta 版本添加）
+> ⚠️ 此为 **Beta** 测试版（或 **Release Candidate** 发布候选版），可能存在兼容性问题，欢迎反馈！（仅 Beta、RC版本添加）
 
 ## 更新介绍
 （占位）
@@ -241,6 +255,135 @@
     - Framework
     - MaFgLib（客户端）
     - Sophisticated Core
+
+## 使用指南
+详细系统要求、启动器配置与安装步骤，请参阅项目 README：
+- 简体中文版: [README.md](./README.md)
+- 繁體中文版: [README_TW.md](./README_TW.md)
+- English version: [README_EN.md](./README_EN.md)
+
+## 加入社区
+- QQ 群：[点击加入](https://qm.qq.com/q/RgessVyPC0)
+- Discord：[Join Server](https://discord.gg/ekpaH4FXDF)
+
+---
+
+# 星空神域 - 客户端更新（版本号：v1.0.0.0 Release Candidate 1）
+
+> 发布日期：2026-02-12
+> ⚠️ 此为 **Release Candidate** 发布候选版，可能存在兼容性问题，欢迎反馈！
+
+## 更新介绍
+在本次版本中，我们重新添加了`Ars Nouveau（新生魔艺）`和`AnvilCraft（铁砧工艺）`模组及其附属扩展模组，并删除了一些无用或影响平衡的模组。除此之外，我们还添加了一系列扩展玩法的模组，并对现有模组进行了一次更新。
+除去上述的模组改动外，我们还删除了部分纹理包，如有需要可以自行添加。
+
+经过一段时间的测试，目前服务端、客户端均已趋于稳定。经过项目组和玩家的共同商讨后。决定结束本次Beta测试版阶段，进入RC（发布候选版）阶段。该阶段将冻结Mod列表，旨在测试mod之间的稳定性和平衡性。
+针对本次Beta测试，项目组在此感谢所有参与本次测试的测试人员。
+以下是本次Beta版参与测试的人员名单
+
+> **siqixiaoye**
+> **free_cat_eating**
+> **Tacz_Blob**
+> **yikeliulizi**
+> **D4C_000**
+> **CXSYGL**
+
+感谢以上几位玩家协助项目组进行服务端、客户端的测试！
+
+## 分发标准
+- 采用 **Modrinth** 整合包格式（`.mrpack`）进行分发
+- 所有资源由 **Packwiz** 统一管理
+- 此为 **「繁星计划」** 下属客户端统一规范
+
+## 变更说明
+
+### 服务器线路变更
+- **更新**
+  - 所有服务端线路对应节点由`四川/成都`改为`山东/济南`
+
+### 技术栈变更
+- **更新**
+  - NeoForge 模组加载器版本由`21.1.218`升级为`21.1.219`
+
+### 模组变更
+- **新增**
+  - Advanced Loot Info（高级战利品信息显示）（客户端）
+  - AdvancedAE（高级AE）
+  - AE2 Crystal Science（应用能源：水晶科技）
+  - AnvilCraft: GuideME（铁砧工艺：GuideME手册）
+  - AnvilCraft（铁砧工艺）
+  - AnvilCraft: PigsPlus（铁砧工艺：猪+）
+  - Archaeological_Research：Exploration（考古研究：探寻）
+  - Ars Additions（魔艺微调）
+  - Ars Creo（机械动力扩展）
+  - Ars Elemental（元素魔艺）
+  - Ars Énergistique（应用能源2：新生魔艺扩展）
+  - Ars Nouveau（新生魔艺）
+  - Ars Technica（魔艺机械师）
+  - Ars Nouveau's Flavors & Delight（魔艺乐事）
+  - Better Ping Display（更好的延迟显示）（客户端）
+  - Calypso's Candy Workshop（卡里普索的糖果工坊）
+  - Golem Dungeons（傀儡地牢）
+  - Kaleidoscope End（森罗物语：末地）
+  - Kaleidoscope Nether（森罗物语：下界）
+  - KubeJS（脚本引擎）
+  - lpstub-all_arabic（阿拉伯数字格式包）（客户端）
+  - Maid Mana Source（女仆魔源）
+  - Maid Restaurant（女仆餐厅）
+  - Modular Golems（傀儡装配）
+  - StarbuncleMania（魔艺管道）
+  - WorldEdit CUI（创世神范围显示）（客户端）
+  - **前置模组**
+    - L2 Library
+    - Rhino
+- **删除**
+  - Just Enough Resources（JEI资源信息）（客户端）
+  - Immersive Petroleum（沉浸原油）
+  - Controlify (Controller support)（手柄支持）（客户端）
+  - Chat Heads（聊天头像）（客户端）
+  - Better Crafting Recipes ( whwdzg's Recipe)（更丰富的合成配方）
+- **更新**
+  - AE2 OMNI Cells（OMNI存储元件）
+  - Applied Pneumatics（应用能源2：气动工艺扩展）
+  - Create: Bits 'n' Bobs（机械动力：精致附加）
+  - Create: Fast Schematic Cannon（机械动力：更快的蓝图加农炮）
+  - Create: Fishery Industry（机械动力：渔业）
+  - Create:Schematic Checker（机械动力：蓝图检查器）
+  - Farmer's Delight（农夫乐事）
+  - Fruits Delight（果园乐事）
+  - Immersive Aircraft（沉浸式飞机）
+  - Integrated Crafting（集成合成学）
+  - Integrated Dynamics（动态联合）
+  - Iris Shaders（iris着色器）（客户端）
+  - Iron's Spells 'n Spellbooks（Iron的法术与魔法书）
+  - Jade（玉）
+  - JourneyMap（旅行地图）
+  - [Let's Do] Vinery（葡园酒香）
+  - Longer Chat History（更长的聊天记录）
+  - More Immersive Wires（更多沉浸线缆）（修改版）
+  - Neo AE2 Toogleable View Cell（AE2可切换显示元件）
+  - PneumaticCraft: Repressurized（气动工艺）
+  - Polymorphic Energistics（多态合成：应用能源2扩展）
+  - Sophisticated Backpacks（精妙背包）
+  - Sophisticated Storage（精妙存储）
+  - TaCZ 1.21.1 NeoForge Port（永恒枪械工坊：零-非官方版）
+  - AE Terminal View Cell Fix（显示元件槽位修复）
+  - TofuCraftReload（豆腐工艺重制版）
+  - TofuDelight（豆腐乐事）
+  - Twilight's Flavor & Delight（暮色风味乐事）
+  - **前置模组**
+    - Bagus Lib
+    - GTBC's SpellLib/API
+    - Sophisticated Core
+
+### 资源变更
+- **新增**
+  - IE: Reimmersed（资源包-模组纹理包）
+- **删除**
+  - Squareful（资源包-全局纹理包）
+  - SummerFields（资源包-全局纹理包）
+  - MultiPixel（资源包-全局纹理包）
+  - Mellow（光影包）
 
 ## 使用指南
 详细系统要求、启动器配置与安装步骤，请参阅项目 README：

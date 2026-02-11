@@ -1,0 +1,17 @@
+filename = '[卡里普索的糖果工坊]ccw-v1.2.2-mc1.21.1.jar'
+name = "Calypso's Candy Workshop"
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = 'v1.2.2-mc1.21.1'
+
+[download]
+hash = 'cc3d02876ab18a104a3223eb43bf58902905973a6411609e00d7abfbd31eb65c350b6f9f27dddd3e6bd5d72dd3c2a7e8b25838d1da50349973fa953b714caac3'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/zCKDP104/versions/b3o4sdbI/ccw-v1.2.2-mc1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'zCKDP104'
+version = 'b3o4sdbI'

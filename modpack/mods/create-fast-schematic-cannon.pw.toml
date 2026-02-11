@@ -1,17 +1,17 @@
-filename = '[机械动力][机械动力：更快的蓝图加农炮]CreateFastSchematicCannon-1.3-neoforge-1.21.1.jar'
+filename = '[机械动力][机械动力：更快的蓝图加农炮]CreateFastSchematicCannon-1.4-neoforge-1.21.1.jar'
 name = 'Create: Fast Schematic Cannon'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.21.1-1.3-neoforge'
+x-prismlauncher-version-number = '1.21.1-1.4-neoforge'
 
 [download]
-hash = 'f62538618aacc1f335720182e6817dea5dbe52029734e18071eee80df4b17471d372f1679431958d8bfdc10479cecec08f42917964693f8ef0932cbf2396e6c1'
+hash = 'd232f700b0a2d25094e01e5f51e0364460a4fca6618854ae4f731bce116a742fddbc74b2f1c65e5c1ca52bd3c0e51d84871f93aff194af00d1f1efb4587d029a'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/DebMSCVn/versions/rLlUZIx2/CreateFastSchematicCannon-1.3-neoforge-1.21.1.jar'
+url = 'https://cdn.modrinth.com/data/DebMSCVn/versions/tXatW5hJ/CreateFastSchematicCannon-1.4-neoforge-1.21.1.jar'
 
 [update.modrinth]
 mod-id = 'DebMSCVn'
-version = 'rLlUZIx2'
+version = 'tXatW5hJ'

@@ -1,17 +1,17 @@
-filename = '[机械动力][机械动力：渔业]createfisheryindustry-4.2.3.jar'
+filename = '[机械动力][机械动力：渔业]createfisheryindustry-5.0.0.jar'
 name = 'Create: Fishery Industry'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '4.2.3'
+x-prismlauncher-version-number = '5.0.0'
 
 [download]
-hash = '2c5b667c14e6d1ad7d8beb004ba0aa5431005dd493cb31c135f26b2c3e8fc6c707a08ecae9d5877a955d20dcbdbd030540b2a7e0c9818568dcc25ffe59009409'
+hash = '46ea3d9405ef585ce0c249045baabdbdf306e1525cc161bd9d6fd79d77527940d150191a43342dbc64c9dfd2d97f61d3442af6dba3d2030241b975ba9fa24187'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/u8OJnscr/versions/ePzBUynH/createfisheryindustry-4.2.3.jar'
+url = 'https://cdn.modrinth.com/data/u8OJnscr/versions/vDFGQhxx/createfisheryindustry-5.0.0.jar'
 
 [update.modrinth]
 mod-id = 'u8OJnscr'
-version = 'ePzBUynH'
+version = 'vDFGQhxx'

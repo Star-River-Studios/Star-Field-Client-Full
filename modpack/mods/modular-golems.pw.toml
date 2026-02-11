@@ -1,0 +1,17 @@
+filename = '[傀儡装配]modulargolems-3.1.9.jar'
+name = 'Modular Golems'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '3.1.9'
+
+[download]
+hash = 'b0e0ebb46d89c1e1208ccdd4cd5f47f7a35bb128e77e5c8cc4c8aed85758f16dfd7feca69a24188cefe453f9338884d8d44dfedcda735d12c7bf130675b39440'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/gtGDlsAD/versions/QuSvPd46/modulargolems-3.1.9.jar'
+
+[update.modrinth]
+mod-id = 'gtGDlsAD'
+version = 'QuSvPd46'

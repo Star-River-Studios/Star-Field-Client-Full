@@ -1,6 +1,6 @@
 filename = '[更长的聊天记录][客户端]LongerChatHistory-neoforge-1.7.jar'
 name = 'Longer Chat History'
-side = 'both'
+side = 'client'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [
     '1.20.5',

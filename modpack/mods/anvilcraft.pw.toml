@@ -1,0 +1,17 @@
+filename = '[铁砧工艺]anvilcraft-neoforge-1.21.1-1.6.0+snapshot.1613.jar'
+name = 'AnvilCraft'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'alpha'
+x-prismlauncher-version-number = '1.21.1-1.6.0+snapshot.1613'
+
+[download]
+hash = 'edb5f782e01d13f2a00e5ba17e01da8b2c2360378241c1842a6efd762b4194bf2a8c35a096b5bb29720cec76891d5104a9c71c74c63d39336de112febe59d35d'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/vuISAWPc/versions/8wqSIv37/anvilcraft-neoforge-1.21.1-1.6.0%2Bsnapshot.1613.jar'
+
+[update.modrinth]
+mod-id = 'vuISAWPc'
+version = '8wqSIv37'

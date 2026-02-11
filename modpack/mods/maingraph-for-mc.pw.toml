@@ -1,0 +1,17 @@
+filename = '[蓝图引擎]mgmc-neoforge-0.5.3+MC1.21.1.jar'
+name = 'Maingraph for MC'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '0.5.3+MC1.21.1'
+
+[download]
+hash = '561d93ae7a24fad340a16bf1cbd858237eb779302473ac33abfc2b69a5ce7209c7a93c753341af729264746b3477077f5ccbc3768c7629c64eff7f117940cd2c'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/gCQA12mz/versions/8ONhioCD/mgmc-neoforge-0.5.3%2BMC1.21.1.jar'
+
+[update.modrinth]
+mod-id = 'gCQA12mz'
+version = '8ONhioCD'

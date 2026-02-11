@@ -1,0 +1,12 @@
+filename = "[魔艺军械师扩展包]Ars Armorer_v1.0.1_for117.zip"
+name = "[TaCZ]Ars Armorer"
+side = "both"
+
+[download]
+hash = "7B21147B41E484D1FE0D67E9607DA86E37A7880A"
+hash-format = "sha1"
+mode = "metadata:curseforge"
+
+[update.curseforge]
+file-id = 7358702
+project-id = 1317400

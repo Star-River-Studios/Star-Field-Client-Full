@@ -1,0 +1,13 @@
+filename = '[Neoforge] IE Reimmersed v1.1.zip'
+name = 'IE: Reimmersed'
+side = 'client'
+
+[download]
+hash = '0ADA03A4CA7811B3C6C6B37CED1096776EDC142A6DD96895BBC778DE36840EA499868F3A46345552B4554749372820EA358FD1E7BE9BB6FE8A5AF0F97D6805D6'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn-alt.modrinth.com/data/Ah9dJFtY/versions/KvvESqcD/%5BNeoforge%5D%20IE%20Reimmersed%20v1.1.zip'
+
+[update.modrinth]
+mod-id = 'Ah9dJFtY'
+version = 'KvvESqcD'

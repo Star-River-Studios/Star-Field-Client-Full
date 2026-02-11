@@ -1,0 +1,17 @@
+filename = '[森罗物语：厨房][森罗物语：末地]kaleidoscope_end-1.0.1-BETA2-1.21.1.jar'
+name = 'Kaleidoscope End'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'beta'
+x-prismlauncher-version-number = '1.0.1-BETA2-1.21.1'
+
+[download]
+hash = 'd4ee07904eadd43ab44f6f08ea02d3dafc72cb3d8871b47d9ea7a5df48d747098bbff68c3ce194ab726b3a778a2e0846cfc98998f74ae5e505db2a4933efce6f'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/8GKUHBM6/versions/yTXkNKNS/kaleidoscope_end-1.0.1-BETA2-1.21.1.jar'
+
+[update.modrinth]
+mod-id = '8GKUHBM6'
+version = 'yTXkNKNS'

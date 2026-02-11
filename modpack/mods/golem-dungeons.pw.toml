@@ -1,0 +1,17 @@
+filename = '[傀儡装配][傀儡地牢]golemdungeons-2.0.6.jar'
+name = 'Golem Dungeons'
+side = 'both'
+x-prismlauncher-loaders = [ 'neoforge' ]
+x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
+x-prismlauncher-release-type = 'release'
+x-prismlauncher-version-number = '2.0.6'
+
+[download]
+hash = '19d5ee9370a9e59ac498d295ad95af1b66a5f195db92dbad1fdcaf1c8d067a534313bf6a68c8ade042a0a8fc79bb1972657d14bae60e89307382373a6520a5d1'
+hash-format = 'sha512'
+mode = 'url'
+url = 'https://cdn.modrinth.com/data/5OrL8C4a/versions/SnWAq6Qi/golemdungeons-2.0.6.jar'
+
+[update.modrinth]
+mod-id = '5OrL8C4a'
+version = 'SnWAq6Qi'

@@ -1,17 +1,17 @@
-filename = '[应用能源2][OMNI 存储元件]ae2omnicells-1.0.7-1.21.1.jar'
+filename = '[应用能源2][OMNI存储元件]ae2omnicells-1.21.1-neoforge-1.1.0.jar'
 name = 'AE2 OMNI Cells'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.0.7'
+x-prismlauncher-version-number = '1.21.1-neoforge-1.1.0'
 
 [download]
-hash = '4cc61bf99c6cc8ac06f6bba62d7119eea232f206e1e38d1a5c9f84ce8e7cacc6a92fe99ce0c3c87050374305fa492022ccc3f2ac24083323afe9fa2aae34510a'
+hash = 'efec3e66bc74a3f3d174fa2c19869684852e9140c3968405ac9afaead7f9bbdac82272755be3f752454590427cf9a733891b2ce12e51ae530470152a81eb7190'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/RYE1pYyr/versions/qTWrMc8V/ae2omnicells-1.0.7-1.21.1.jar'
+url = 'https://cdn.modrinth.com/data/RYE1pYyr/versions/Bir2gnNP/ae2omnicells-1.21.1-neoforge-1.1.0.jar'
 
 [update.modrinth]
 mod-id = 'RYE1pYyr'
-version = 'qTWrMc8V'
+version = 'Bir2gnNP'
