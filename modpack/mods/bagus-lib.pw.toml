@@ -1,17 +1,17 @@
-filename = '[前置模组]bagus_lib-1.21.1-13.25.0.jar'
+filename = '[前置模组]bagus_lib-1.21.1-13.25.1.jar'
 name = 'Bagus Lib'
 side = 'both'
 x-prismlauncher-loaders = [ 'neoforge' ]
 x-prismlauncher-mc-versions = [ '1.21.1', '1.21.1' ]
 x-prismlauncher-release-type = 'release'
-x-prismlauncher-version-number = '1.21.1-13.25.0'
+x-prismlauncher-version-number = '1.21.1-13.25.1'
 
 [download]
-hash = 'accbf97dcfe6434b9392cc42f65da698f00448caeee44c15d3c09aaed065e88ba30a249dd83beab46fffa568f1c79e50e8358c6eb59e983b7b51f95fc46e31c5'
+hash = '57fbb61a1b1cc24f7b39a8c843dc7862ecfb82dd66e12e448a80519114ee94ecc4babbc1ebfedd2d68ca3e14cc1e03015a8a84dc3fc5b5c8513ae52b4802ae71'
 hash-format = 'sha512'
 mode = 'url'
-url = 'https://cdn.modrinth.com/data/95nSN4Rd/versions/zOPrbgPV/bagus_lib-1.21.1-13.25.0.jar'
+url = 'https://cdn.modrinth.com/data/95nSN4Rd/versions/tHQKeGug/bagus_lib-1.21.1-13.25.1.jar'
 
 [update.modrinth]
 mod-id = '95nSN4Rd'
-version = 'zOPrbgPV'
+version = 'tHQKeGug'

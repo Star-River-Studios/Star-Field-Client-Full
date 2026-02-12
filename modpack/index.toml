@@ -6,7 +6,7 @@ hash = "bdf090af13032025e41fb8a0cc8ed436d18592de0ad2dfb0cf6f856f2a015f46"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "11fbdb717bdb15045b5ae9a7722fc22ea1cb535b3d182cf6f982e83a6ef7d9a0"
+hash = "8e3ca55b5c1c159698131cfe338a5018956356d940cbcc0214446e1309dba116"
 
 [[files]]
 file = "config/emi.css"
@@ -153,7 +153,7 @@ metafile = true
 
 [[files]]
 file = "mods/archaeological_research_exploration.pw.toml"
-hash = "c3d8a9d3bbf9b27b5a27511f400b70ccc525371ebc3db09780b29f3490661a9e"
+hash = "4c8c4caaac17066be426748a47e20014f531686d29f2852a2d8863b1ecc2d4f1"
 metafile = true
 
 [[files]]
@@ -203,7 +203,7 @@ metafile = true
 
 [[files]]
 file = "mods/bagus-lib.pw.toml"
-hash = "150d3727cbc3a8d2981d63ad7a158985ca05967c56839dc29f206d9486a3c5cc"
+hash = "6ce8f789bea4dcbd2611d16b880837a0c9eb85a8d4770e5aeac884ff81c40970"
 metafile = true
 
 [[files]]
@@ -358,7 +358,7 @@ metafile = true
 
 [[files]]
 file = "mods/create-filters-anywhere.pw.toml"
-hash = "70dd7f8ce6f91e814d6da57292c72935b1f86090f6c129e4eaad968f7e19a77e"
+hash = "5777c1d8bd5cbaf9b482f096bce6cf40b6751de52faa1f48448ed964ee38f6d4"
 metafile = true
 
 [[files]]
@@ -603,7 +603,7 @@ metafile = true
 
 [[files]]
 file = "mods/integrated-crafting.pw.toml"
-hash = "a24c6eb48667a540c8575019ff8fb7d6c84e7464067a3f7e73cff96e7eeba36e"
+hash = "c1deace5942fbb4dc015b1d4f573c8c9824dd5d561d9afb5b081c8363d84faf1"
 metafile = true
 
 [[files]]
