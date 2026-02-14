@@ -6,7 +6,7 @@ hash = "bdf090af13032025e41fb8a0cc8ed436d18592de0ad2dfb0cf6f856f2a015f46"
 
 [[files]]
 file = "config/customwindowtitle-client.toml"
-hash = "8e3ca55b5c1c159698131cfe338a5018956356d940cbcc0214446e1309dba116"
+hash = "f29737fd9794d7e4d1a19ff8db55d0a2b09d400e1e09f203aaea2a83a113de5c"
 
 [[files]]
 file = "config/emi.css"
@@ -1118,7 +1118,7 @@ metafile = true
 
 [[files]]
 file = "options.txt"
-hash = "4e1e4cb3cbe9feb4f1e3f32a6d6c11c69fef9f6684a8292f822cb8edd2739d51"
+hash = "79d703e70d96041c9576c32f4747208df5da7c6bcf27c76c5b41fce95c1b7829"
 
 [[files]]
 file = "resourcepacks/ie-reimmersed.pw.toml"
